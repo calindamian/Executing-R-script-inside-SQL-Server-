@@ -16,7 +16,7 @@ First I explained  how to install it and then how you can use it.
 
 ## Installation
 
-1. Download and install an R language runtime version on your SQL Server machine:  https://cran.r-project.org/bin/windows/
+1. Download and install an R language runtime version on your SQL Server machine from https://cran.r-project.org/bin/windows/
 
 2. Once you've installed R make sure you install the following packages: 
       - install.packages("tidyverse")
